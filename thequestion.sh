@@ -3,5 +3,6 @@
 #
 # copyright linux-training.be
 #
-
 echo The answer is 42.
+echo "Hello World"
+
